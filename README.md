@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sanjay Prajapat
-- 👀 I’m interested in Android and Flutter
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Android
 - 📫 How to reach me sanjay@gtsinfosoft.com
 
 <!---
